@@ -8,7 +8,7 @@ The project converts raw Excel order data into an interactive business intellige
 
 ## 📸 Dashboard Preview
 
-![SN Corp Dashboard](screenshots/dashboard-overview.png)
+![SN Corp Dashboard](Dashboard-Overview.png)
 
 ---
 
